@@ -153,13 +153,9 @@ def check_vali_datetime(yob, doi, doe):
 |----------------|-------------------------------|
 |**300**| **Trường thông tin hợp lệ**|
 |**100**|**Địa chỉ hợp lệ: {ward_name}, {district_name}, {city_name}**|
-|101|{ward_name}' không tồn tại trong quận '{district_name}' của thành phố '{city_name}'"            |
-|102|"Quận '{district_name}' không tồn tại trong thành phố '{city_name}'"|
-|103|"Thành phố '{city_name}' không tồn tại|
 |**200**|**ID extract trả ra thông tin hợp lệ**|
 |**210**|**Formart Regex ID hợp lệ**|
 |211|Formart regex ID không hợp lệ|
-|212|3 số đầu trong CCCD không tồn tại mã tỉnh|
 |221|Regex Passport không họp lệ|
 |**220**|**Regex Passport hợp lệ**|
 |310|Thông tin trích xuất từ ID card không trùng với OCR (Tỉnh, Giới tính, Năm Sinh)|
@@ -175,6 +171,12 @@ def check_vali_datetime(yob, doi, doe):
 |405|Ngày hết hạn không hợp lệ|
 
 ### Demo, run test
+```
+git clone https://github.com/Hu2Hoang/OCR_CheckLogic.git
+```
+```
+cd Validate_PP
+```
 ```
 python validate.py
 ```
