@@ -248,7 +248,10 @@ def check_vali_datetime(yob, doe, yoi):
 ### Demo, run test
 
 ```
-git clone https://github.com/Hu2Hoang/Validate_ID.git
+git clone https://github.com/Hu2Hoang/OCR_CheckLogic.git
+```
+```
+cd Validate_ID
 ```
 ```
 python validate.py
