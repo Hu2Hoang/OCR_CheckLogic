@@ -1,0 +1,19 @@
+{
+  "errorCode" : 0,
+  "errorMessage" : "",
+  "data": [
+    {
+      "type": "P",
+      "passport_number": "A123457",
+      "name": "ĐINH HỮU HOÀNG",
+      "national":"VIỆT NAM/VIETNAMESE",
+      "pob": "NINH BÌNH",
+      "sex": "NAM/M",
+      "id_number": "037203004898",
+      "dob": "31/08/2003",
+      "doi": "09/03/2018",
+      "doe": "09/03/2028",
+      "place_issuse": "Cục Quản lý xuất nhập cảnh"
+    }
+  ]
+}

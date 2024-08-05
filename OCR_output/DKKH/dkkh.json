@@ -1,0 +1,36 @@
+{
+    "document_type": "Giấy chứng nhận kết hôn",
+    "registration_number": "122",
+    "wife": {
+        "full_name": "Phùng",
+        "date_of_birth": "20/01/1993",
+        "ethnicity": "Kinh",
+        "nationality": "Việt Nam",
+        "place_of_residence": "Thôn 08 xã Ea Đar, huyện Ea Kar, tỉnh Đắk Lắk",
+        "identity_card": {
+            "type": "Giấy CMND",
+            "number": "",
+            "issued_date": "",
+            "issued_place": "Công an tỉnh Đắk Lắk cấp"
+        }
+    },
+    "husband": {
+        "full_name": "Nguyễn",
+        "date_of_birth": "30/10/1988",
+        "ethnicity": "Kinh",
+        "nationality": "Việt Nam",
+        "place_of_residence": "Phường Đông Hòa, thị xã Dĩ An, tỉnh Bình Dương",
+        "identity_card": {
+            "type": "Giấy CMND",
+            "number": "",
+            "issued_date": "",
+            "issued_place": "Công an tỉnh Bình Dương cấp"
+        }
+    },
+    "marriage_registration_place": "Ủy ban nhân dân xã Ea Đar, huyện Ea Kar, tỉnh Đắk Lắk",
+    "marriage_registration_date": "05/12/2018",
+    "signing_officer": {
+        "position": "Phó Chủ Tịch",
+        "name": "Y Na Mlô"
+    }
+}
