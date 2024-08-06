@@ -3,7 +3,7 @@ const fs = require("fs");
 
 // const filePath = './pdf/2318 GDSC-PTIT Ban cam ket 1.pdf';
 // const file = fs.readFileSync(filePath);
-// const KEY = 'AIzaSyBAY3wnHddUWuEhqP7d27y6vUS4KXwBO1s';
+
 
 // const data = {
 //     requests: [
@@ -40,7 +40,7 @@ const fs = require("fs");
 
 const filePath = './sodo.jpg';
 const fileBase64 = fs.readFileSync(filePath, {encoding: 'base64'});
-const KEY = 'AIzaSyBAY3wnHddUWuEhqP7d27y6vUS4KXwBO1s';
+
 
 const data = {
     requests: [
